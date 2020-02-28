@@ -1,5 +1,3 @@
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Mucosal Immunology Lab
 
 Mucosal Immunology Lab is part of Translational Research Center for Gastrointestinal Disorders at KU Leuven, Belgium. We are a team  headed by Prof. Gianluca Matteoli.
