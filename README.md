@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Mucosal Immunology Lab
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saeedfc/Mucosal-Immunology-Lab-KUL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Mucosal Immunology Lab is part of Translational Research Center for Gastrointestinal Disorders at KU Leuven, Belgium. We are a team  headed by Prof. Gianluca Matteoli.
 
 ### Support or Contact
 
